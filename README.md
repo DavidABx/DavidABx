@@ -82,15 +82,23 @@ Confira meu perfil no LinkedIn: "[David Abreu](https://www.linkedin.com/in/david
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-    />
+/>
 <img 
     align="left" 
-    alt="nodejs" 
-    title="nodejs"
+    alt="Ruby" 
+    title="Ruby"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="node.js" 
+    title="node.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-    />
+/>
 <img 
     align="left" 
     alt="PHP" 
@@ -138,3 +146,4 @@ Confira meu perfil no LinkedIn: "[David Abreu](https://www.linkedin.com/in/david
   />
 
 </p>
+
