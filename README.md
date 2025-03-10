@@ -2,7 +2,7 @@
 
 **`Front-End`**
 
-Me chamo David Abreu Brito, tenho 21 anos e sou do Sul de Minas Gerais. Concluí o ensino médio e atualmente estou cursando Curso Superior Tecnologia em Gestão de TI na UNOPAR, na modalidade EAD. Sou apaixonado por tecnologia e estou em busca de uma oportunidade de trabalho como programador.
+Me chamo David Abreu Brito, tenho 21 anos e sou do Sul de Minas Gerais. Concluí o ensino médio e atualmente estou cursando Curso Superior Tecnologia em Gestão de TI na UNOPAR, na modalidade EAD. Sou apaixonado por tecnologia e estou em busca de uma oportunidade de trabalho como Front-End.
 
 Confira meu perfil no LinkedIn: "[David Abreu](https://www.linkedin.com/in/david-abreu-130314297)"
 
